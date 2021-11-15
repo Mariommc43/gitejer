@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/layout.css">
   </head>
   <body>
-
+<!--p-->
    <h1>Header</h1>
    <?php
    $area=(200*546)/2;
